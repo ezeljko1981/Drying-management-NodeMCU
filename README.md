@@ -1,4 +1,4 @@
-# Drying management - NodeMCU
+# Drying management
 
 This is the programming code written in C++ for the NodeMCU microcontroller. 
 
@@ -8,7 +8,7 @@ Obtain the secret key generated from firebase Service accounts>Database secrets.
 
 Set the name and password to access the Wifi network.
 
-# Upravljanje sušenjem - NodeMCU
+# Upravljanje sušenjem
 
 Ovo je programski kod napisan u C++ za NodeMCU mikrokontroler.
 
